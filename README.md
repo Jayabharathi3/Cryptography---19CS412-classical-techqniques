@@ -737,7 +737,7 @@ int main() {
 ![rail](https://github.com/user-attachments/assets/1d815f22-9e41-45c4-acb8-cca4cfa67682)
 
 ### OUTPUT:
-Enter a plain ex : JAYABHARATHI
+Enter a plain text : JAYABHARATHI
 - Enter he ke (number of rails): 2
 - Encrypted Message : JYBAAHAAHRTI
 - Decrypted Message : JAYABHARATHI
